@@ -1,0 +1,4 @@
+Questão 6 - O que aconteceu com as duas contas criadas na questão 4? Explique e modifique o código para o bom
+funcionamento.
+
+As contas existentes deixaram de ser do tipo Conta, agora elas herdam propriedades e funções da classe Conta. Conta corrente e poupança podem sacar, depositar e transferir dinheiro.
